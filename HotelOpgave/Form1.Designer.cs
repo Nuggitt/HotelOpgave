@@ -190,7 +190,7 @@
             // Exit
             // 
             this.Exit.BackColor = System.Drawing.Color.Red;
-            this.Exit.Location = new System.Drawing.Point(1401, 526);
+            this.Exit.Location = new System.Drawing.Point(1388, 526);
             this.Exit.Name = "Exit";
             this.Exit.Size = new System.Drawing.Size(130, 53);
             this.Exit.TabIndex = 12;
